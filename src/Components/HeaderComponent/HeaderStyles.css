@@ -1,0 +1,131 @@
+
+  
+  
+  html{
+    width: 100%;
+    color: #fff;
+    font-family: system-ui !important;
+  }
+  
+  
+  .navbar{
+    width: 100% !important;
+    background: none !important;
+    /* background-image: linear-gradient(to bottom, #4CAF50, #45A843); */
+    /* border: 1px solid#198754; */
+    color: #ffffff !important;
+    padding: 10px 20px;
+    border: none !important;
+    margin-bottom: 0px !important;
+    position: fixed;
+  }
+
+  .navbar a.navbar-brand ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar a.navbar-brand ul li{
+    display: block;
+    width: auto;
+    height: 38px !important;
+    float: left;
+    color: #ffffff !important;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar a.navbar-brand ul li img{
+    width: 50px;
+    height: 45px;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar a.navbar-brand ul li h5{
+    width: 100%;
+    height: 18px !important;
+    font-size: 98% !important;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    color: #4696ad !important;
+  }
+  .navbar a.navbar-brand ul li p{
+    width: 100%;
+    height: 20px !important;
+    margin: 0;
+    padding: 0;
+    font-size: 86% !important;
+    color: #fff !important;
+    text-align: left;
+  }
+  .nav-item a.text-dark{
+    color: #f9f9f9 !important;
+    font-weight: 500;
+  }
+  
+  /* .navbar-nav{
+    float: right !important;
+  } */
+  .navbar-right li{
+    padding-right: 10px;
+  }
+  .navbar-right li a i{
+    color: #4696ad;
+  }
+  .main{
+    display: block;
+    background: url(../../../public/img/indexBackground.jpg) no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+  }
+  .main .row{
+    margin-right: 0% !important;
+    margin-left: 0% !important;
+  }
+  .main span{
+    display: block;
+    width: 100%;
+    height: 400px;
+  }
+  .main span img{
+    width: 50%;
+    height: 50%;
+    margin: 0% 20%;
+    border-radius: 50%;
+    border: 3px solid #888;
+  }
+  .main h4{
+    color: #fff;
+  }
+  .main h3{
+    font-weight: bold;
+    color: #fff;
+  }
+  .main p{
+    display: block;
+    width: 100%;
+    color: #fff;
+  }
+  .main ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .main .row  ul li{
+    display: block;
+    float: left;
+    width: 10%;
+    height: 18%;
+    margin: 2% 0%;
+    padding: 0;
+  }
+  .tools-arrow{
+    width: 60%;
+  }
+  
+  

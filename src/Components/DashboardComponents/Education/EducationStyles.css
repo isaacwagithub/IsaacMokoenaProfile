@@ -1,0 +1,36 @@
+h5{
+    font-weight: bold;
+}
+h4{
+    font-weight: 600;
+    color: #4696ad;
+}
+h3{
+    color: #4696ad !important;
+    font-weight: bold;
+    font-size: 220%;
+    margin-bottom: 20px;
+}
+h6{
+    color: #fff;
+    font-weight: 400;
+}
+h6 span,p span{
+    font-weight: 700;
+    color: #4696ad;
+}
+p{
+    color: #fff;
+}
+p.text-muted{
+    color: #f9f9f9 !important;
+}
+ol li{
+    color: #4696ad;
+    font-weight: 700;
+
+}
+ol li ul li{
+    color: #fff !important;
+    font-weight: 400;
+}

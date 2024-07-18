@@ -1,0 +1,105 @@
+.row{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.sidebarDiv{
+    height: 100vh !important;
+    background: #2c2c2c;
+    margin: 0;
+    padding: 0;
+    border-right: 1px solid #c9c9c9;
+}
+ 
+.sidebarDiv ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.sidebarDiv ul li{
+    display: block;
+    width: 100%;
+    min-height: 48px;
+    margin: 0% !important;
+    padding:0%;
+    padding: 0;
+    color: #fff;
+}
+.sidebarDiv ul li span{
+    width: 50%;
+    height: 48px;
+    margin: 0 25%;
+}
+.sidebarDiv ul li span img{
+    width: 32%;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid #4696ad;
+}
+.sidebarDiv ul li p:hover{
+    cursor: pointer;
+    background-color: #07141d;
+}
+.sidebarDiv ul li p{
+    color: #fff;
+    height: 48px;
+    margin-bottom: 0;
+    padding-left: 10%;
+}
+.sidebarDiv ul li p span{
+    float: left;
+    width: 26px;
+    height: 26px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    padding-left: 0% !important;
+}
+.sidebarDiv ul li p a{
+    text-decoration: none;
+    color: #fff;
+}
+.sidebarDiv ul li ul{
+    margin: 0;
+    padding: 0;
+}
+.sidebarDiv ul li ul li{
+    height: 48px;
+    margin: 0;
+} 
+
+.sidebarDiv ul li p a{
+    padding-left: 6% !important;
+}
+.vertical-align{
+    display: flex; /* Use Flexbox for alignment */
+    align-items: center; /* Align items vertically */
+}
+.sidebarDiv ul li section ul li p span{
+    margin-left: 10%;
+    
+}
+.sidebarDiv ul li section ul li p a{
+    padding-left: 6% !important;
+}
+.sidebarDiv ul li section{
+    display: none;
+}
+
+/* Adjust as needed */
+.icon {
+    margin-right: 5px; /* Add spacing between icon and text */
+}
+.activeSidebarLink{
+    background: #07141d;
+}
+.sidebarDiv .round-span{
+    border-radius: 50%;
+    border: 2px solid #4696ad;
+    background: #4696ad;
+    width: 10px;
+    height: 10px;
+}
+.sidebarDiv ul li i{
+    color: #4696ad !important;
+}

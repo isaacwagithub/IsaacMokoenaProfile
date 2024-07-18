@@ -1,0 +1,26 @@
+h3{
+    color: #4696ad !important;
+    font-weight: bold;
+}
+
+h4{
+    color: #ededed !important;
+    padding: 0 !important;
+}
+.certificates-container .card{
+    background: none;
+    width: 100%;
+    margin: 20px;
+    border: 2px solid #c9c9c9 !important;
+    background: #4696ad;
+}
+.certificates-container .card .card-body p{
+    color: #f6f3f3;
+}
+.certificates-container .card .card-body h4{
+    color: #4696ad;
+}
+.certificates-container .card .card-body p span{
+    font-weight: 600 !important;
+    color: #fff;
+}

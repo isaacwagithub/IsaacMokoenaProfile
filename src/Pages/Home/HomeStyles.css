@@ -1,0 +1,43 @@
+.main{
+    background: url(../../../public/img/indexBackground.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.main ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.main ul li{
+  margin: 0 20%;
+}
+.main ul li:first-child{
+  margin-left: 0;
+}
+.main ul li img{
+    width: 60%;
+    height: 50px;
+  }
+  
+  .main ul li p{
+    text-align: center;
+  }
+  .main a{
+    display: block;
+    clear: both !important;
+    width: 50%;
+  }
+  .main .home-intro{
+    text-align: left;
+  }
+  .main .home-intro p{
+    width: 80%;
+  }
+.main img.no-border{
+  border: 0px !important;
+} 
+.main .btn-primary{
+  background: #4696ad;
+  border: 1px solid #4696ad;
+}

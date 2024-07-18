@@ -1,0 +1,17 @@
+.row {
+    margin-right: calc(0 * var(--bs-gutter-x));
+    margin-left: calc(0 * var(--bs-gutter-x));
+  }
+  .portfolio{
+    display: block;
+    width: 100%;
+    height: 100vh;
+    background: #2c2c2c;
+}
+.row .col-lg-3{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+#dashboardContent{
+  background: #2e2e2e;
+}

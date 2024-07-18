@@ -1,0 +1,13 @@
+footer{
+    display: block;
+    clear: both !important;
+    background: #202020;
+    height: 100px;
+    margin: 0;
+}
+.footer{
+    text-align: left !important;
+}
+.footer div{
+    padding: 1%;
+}

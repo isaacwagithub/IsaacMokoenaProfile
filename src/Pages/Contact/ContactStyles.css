@@ -1,0 +1,28 @@
+.contact{
+    height: 100vh;
+    background: #2c2c2c;
+}
+.contact img{
+    margin-top: 100px;
+    width: 140px;
+    height: 140px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+.contact h3{
+    color: #fff !important;
+}
+.contact .card{
+    width: 60%;
+    margin: 0 20%;
+    background: none;
+    border: 2px solid #fff;
+}
+.contact .card .card-header{
+    background: #4696ad;
+    height: 40px;
+    color: #fff;
+}
+.contact .card .card-body ul li{
+    color: #fff;
+}
