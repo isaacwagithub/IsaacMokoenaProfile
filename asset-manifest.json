@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/css/main.8a48441c.css",
-    "main.js": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/main.2a400fb3.js",
-    "static/js/453.8952797a.chunk.js": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js",
-    "static/media/indexBackground.jpg": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/media/indexBackground.add92bbf4b2d48e666ac.jpg",
-    "index.html": "/isaacwagithub.github.io/IsaacMokoenaProfile/index.html",
-    "main.8a48441c.css.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/css/main.8a48441c.css.map",
-    "main.2a400fb3.js.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/main.2a400fb3.js.map",
-    "453.8952797a.chunk.js.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js.map"
+    "main.css": "/IsaacMokoenaProfile/static/css/main.5c816659.css",
+    "main.js": "/IsaacMokoenaProfile/static/js/main.c4c21920.js",
+    "static/js/453.8952797a.chunk.js": "/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js",
+    "static/media/indexBackground.jpg": "/IsaacMokoenaProfile/static/media/indexBackground.add92bbf4b2d48e666ac.jpg",
+    "index.html": "/IsaacMokoenaProfile/index.html",
+    "main.5c816659.css.map": "/IsaacMokoenaProfile/static/css/main.5c816659.css.map",
+    "main.c4c21920.js.map": "/IsaacMokoenaProfile/static/js/main.c4c21920.js.map",
+    "453.8952797a.chunk.js.map": "/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a48441c.css",
-    "static/js/main.2a400fb3.js"
+    "static/css/main.5c816659.css",
+    "static/js/main.c4c21920.js"
   ]
 }
