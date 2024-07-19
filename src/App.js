@@ -14,11 +14,11 @@ function App() {
       <div className="App"> 
         <Header/>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/Home" element={<Home />} />
-          <Route path="/About" element={<About />} />
-          <Route path="/Portfolio" element={<Portfolio />} />
-          <Route path="/Contact" element={<Contact />} />
+          <Route path="/myresume" element={<Home />} />
+          <Route path="/myresume/Home" element={<Home />} />
+          <Route path="/myresume/About" element={<About />} />
+          <Route path="/myresume/Portfolio" element={<Portfolio />} />
+          <Route path="/myresume/Contact" element={<Contact />} />
         </Routes>
         <Footer/>
       </div>
