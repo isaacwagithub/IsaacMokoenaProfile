@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/css/main.8a48441c.css",
+    "main.js": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/main.2a400fb3.js",
+    "static/js/453.8952797a.chunk.js": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js",
+    "static/media/indexBackground.jpg": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/media/indexBackground.add92bbf4b2d48e666ac.jpg",
+    "index.html": "/isaacwagithub.github.io/IsaacMokoenaProfile/index.html",
+    "main.8a48441c.css.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/css/main.8a48441c.css.map",
+    "main.2a400fb3.js.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/main.2a400fb3.js.map",
+    "453.8952797a.chunk.js.map": "/isaacwagithub.github.io/IsaacMokoenaProfile/static/js/453.8952797a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a48441c.css",
+    "static/js/main.2a400fb3.js"
+  ]
+}
